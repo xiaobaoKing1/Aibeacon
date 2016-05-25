@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Aibeacon</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ask_bt_open">Do you want to open bluetooth</string>
+    <string name="search_sn_id">Search SN or ID</string>
+
+    <string name="rssi">RSSI:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="light">Light:</string>
+    <string name="move">Moving:</string>
+    <string name="move_count">Moving count:</string>
+    <string name="model">Model:</string>
+    <string name="firmware">Firmware:</string>
+    <string name="battery">Battery:</string>
+
+    <string name="a0">a0</string>
+    <string name="b0">b0</string>
+    <string name="c0">c0</string>
+    <string name="yunzi">AiBeacon</string>
+    <string name="back">Back</string>
+
+    <string name="icon_fa_map_marker">&#xf041;</string>
+    <string name="icon_fa_cloud">&#xf0c2;</string>
+    <string name="icon_fa_lightbulb_o">&#xf0eb;</string>
+    <string name="icon_fa_rocket">&#xf135;</string>
+    <string name="icon_fa_rss">&#xf09e;</string>
+    <string name="icon_fa_user">&#xf007;</string>
+    <string name="icon_fa_fresh">&#xf021;</string>
+    <string name="icon_fa_info_circle">&#xf05a;</string>
+    <string name="icon_fa_bullseye">&#xf140;</string>
+    <string name="disappear">Disappear</string>
+    <string name="immediate">immediate</string>
+
+    <string name="title_distance">Distance</string>
+    <string name="title_range">Range</string>
+    <string name="title_temperature">Temperature</string>
+    <string name="title_light">Light</string>
+    <string name="title_move">Move</string>
+    <string name="title_notification">Notification</string>
+
+
+    <string name="degree">℃</string>
+    <string name="percent">%</string>
+    <string name="still">still</string>
+    <string name="moving">moving</string>
+    <string name="closed">closed</string>
+    <string name="lx">lx</string>
+</resources>
